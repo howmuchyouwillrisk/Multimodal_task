@@ -25,4 +25,4 @@ This is based on the physical reservoir memoristor model, used for dynamic infor
 Basic results of training
 - `action_results`:The training results include striking actions, such as confusion matrix, training process, etc.
 - `activation_reports`:The F function includes various swing trajectories.
-- `fashion_mnist_results:Training results containing confusion matrix.
+- `fashion_mnist_results`:Training results containing confusion matrix.
