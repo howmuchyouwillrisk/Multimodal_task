@@ -19,7 +19,7 @@ The following database has been preprocessed and can be directly input into the 
 This is based on the physical reservoir memoristor model, used for dynamic information recognition to achieve recognition of striking actions and swing trajectory. After installing the environment, use .Run to execute network
 - `action-task.py`:The preprocessed striking actions database has been used for training and testing.
 - `trajectory_data.py`:Train and test the preprocessed swing trajectory database.
-- `fashion_mnist`:Training and testing pre fashion mnist database.
+- `fashion_mnist`:Training and testing fashion mnist database.
 
 ## Result
 Basic results of training
